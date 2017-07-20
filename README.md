@@ -1,4 +1,4 @@
-CommunalCoin- a coin of respect! Time Limited Coins, which are issued to offset the lost value of the system and constantly distributed equally as a dividend for Peer Owners. Source: http://communal-coin.wikidot.com/blog:1 License: AGPL (affero-gpl).
+CommunalCoin- a coin of respect! Time Limited Coins, which are issued to offset the lost value of the system and constantly distributed equally as a dividend for Peer Owners. Source: http://communal-coin.wikidot.com/blog:1 under the [humanitarian-agpl-license](http://namzezam.wikidot.com/humanitarian-agpl-license).
 ======
  
 
